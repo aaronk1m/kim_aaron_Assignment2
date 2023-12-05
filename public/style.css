@@ -1,0 +1,37 @@
+/*Aaron Kim*/
+.custom-bg {
+    background-color: rgb(255, 255, 255);
+  }
+  .name-img{
+    width: 250px;
+    height: 250px;
+  }
+  .img-invoice{
+    width: 60px;
+    height: 60px;
+  }
+  .btn-outline-primary {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #ffffff;
+  }
+  .btn-outline-primary:hover {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #000000;
+  }
+  .container img {
+    /*object-fit: contain;*/
+    object-fit: cover; 
+  } 
+  .jumbotron {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+  } 
+  .row {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+  }
+  table {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+  }
